@@ -1,0 +1,126 @@
+.header {
+  height: 16%;
+  width: 25%;
+  float: left;
+}
+
+.nav1{
+  height: 8%;
+  width: 10%;
+  float: left;
+  margin-top: 3%;
+  margin-left: 21%;
+}
+
+.nav2{
+  height: 8%;
+  width: 10%;
+  float: left;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.nav3{
+  height: 8%;
+  width: 10%;
+  float: left;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.nav4{
+  height: 8%;
+  width: 10%;
+  float: left;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.nav5{
+  height: 8%;
+  width: 10%;
+  float: left;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.aside{
+  height: 67%;
+  width: 19.2%;
+  margin-top: 1%;
+  float: left;
+  clear: left;
+}
+
+.header2{
+  height: 16%;
+  width: 79.8%;
+  margin-top: 1%;
+  margin-left: 1%;
+  float: left;
+}
+
+.main {
+  width: 59.6%;
+  height: 32%;
+  margin-top: 1%;
+  margin-left: 1%;
+  float: left;
+}
+
+.aside2{
+  width: 19.2%;
+  height: 32%;
+  margin-top: 1%;
+  margin-left: 1%;
+  float: left;
+}
+
+.sub1 {
+  width: 19.2%;
+  height: 16%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.sub2 {
+  width: 19.2%;
+  height: 16%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.sub3 {
+  width: 19.2%;
+  height: 16%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.sub4 {
+  width: 19.2%;
+  height: 16%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.footer {
+  height: 16%;
+  width: 100%;
+  float: left;
+  margin-top: 1%;
+}
+
+.pink { background: #ee3e64; }
+/*.light-blue {background: rgba(68, 172, 207,0.5);}*/
+.blue { background: #44accf; }
+.green1 { background: rgba(183,216,75,0.2); }
+.green2 { background: rgba(183,216,75,0.4); }
+.green3 { background: rgba(183,216,75,0.6); }
+.green4 { background: rgba(183,216,75,0.8); }
+.green5 { background: rgba(183,216,75,1); }
+.orange { background: #E2A741; }

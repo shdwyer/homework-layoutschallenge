@@ -1,0 +1,39 @@
+
+.header {
+  height: 100px;
+}
+
+.aside {
+  width: 20%;
+  height: 600px;
+  float: left;
+  margin-top: 1%;
+}
+
+.main {
+  width: 58%;
+  height: 600px;
+  float: left;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.aside2 {
+  width: 20%;
+  height: 600px;
+  float: left;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.footer {
+  height: 100px;
+  width: 100%;
+  float: left;
+  margin-top: 1%;
+}
+
+.pink { background: #ee3e64; }
+.blue { background: #44accf; }
+.green { background: #b7d84b; }
+.orange { background: #E2A741; }
